@@ -3,7 +3,7 @@
 " Version:    0.1
 " Maintainer: baskerville <nihilhill@gmail.com>
 "
-" This color scheme is based on xoria256.
+" Based on xoria256.
 
 set background=dark
 hi clear
