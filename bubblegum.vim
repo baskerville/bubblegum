@@ -79,7 +79,7 @@ hi PmenuSbar       ctermfg=231    ctermbg=243
 hi WildMenu        ctermfg=71     ctermbg=236    cterm=none
 hi Visual          ctermfg=fg     ctermbg=bg     cterm=reverse
 hi VertSplit       ctermfg=243    ctermbg=236    cterm=none
-hi LineNr          ctermfg=243
+hi LineNr          ctermfg=243    ctermbg=236
 
 hi Title           ctermfg=109
 hi SpecialKey      ctermfg=136
@@ -97,9 +97,9 @@ hi IncSearch       ctermfg=231    ctermbg=168     cterm=none
 hi Question        ctermfg=38
 
 hi Folded          ctermfg=231    ctermbg=243
-hi FoldColumn      ctermfg=231    ctermbg=243
-hi SignColumn      ctermfg=231    ctermbg=243
-hi ColorColumn     ctermfg=16     ctermbg=243
+hi FoldColumn      ctermfg=79     ctermbg=236
+hi SignColumn      ctermfg=79     ctermbg=236
+hi ColorColumn     ctermfg=79     ctermbg=236
 
 hi CursorColumn    ctermbg=236    cterm=none
 hi CursorLine      ctermbg=236    cterm=none
@@ -121,8 +121,8 @@ hi diffChanged     ctermfg=179
 
 hi diffAdd         ctermfg=16     ctermbg=149
 hi diffDelete      ctermfg=231    ctermbg=fg
-hi diffText        ctermfg=16     ctermbg=216
-hi diffChange      ctermfg=16     ctermbg=210
+hi diffText        ctermfg=16     ctermbg=211
+hi diffChange      ctermfg=16     ctermbg=217
 hi diffOldLine     ctermfg=104
 
 hi SpellBad        ctermfg=210    ctermbg=bg      cterm=underline

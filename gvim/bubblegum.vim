@@ -79,7 +79,7 @@ hi PmenuSbar       ctermfg=231    ctermbg=243    guifg=#FFFFFF    guibg=#767676
 hi WildMenu        ctermfg=71     ctermbg=236    cterm=none    guifg=#5FAF5F    guibg=#303030    gui=none
 hi Visual          ctermfg=fg     ctermbg=bg     cterm=reverse    guifg=fg    guibg=bg    gui=reverse
 hi VertSplit       ctermfg=243    ctermbg=236    cterm=none    guifg=#767676    guibg=#303030    gui=none
-hi LineNr          ctermfg=243    guifg=#767676
+hi LineNr          ctermfg=243    ctermbg=236    guifg=#767676    guibg=#303030
 
 hi Title           ctermfg=109    guifg=#87AFAF
 hi SpecialKey      ctermfg=136    guifg=#AF8700
@@ -97,9 +97,9 @@ hi IncSearch       ctermfg=231    ctermbg=168     cterm=none    guifg=#FFFFFF   
 hi Question        ctermfg=38    guifg=#00AFD7
 
 hi Folded          ctermfg=231    ctermbg=243    guifg=#FFFFFF    guibg=#767676
-hi FoldColumn      ctermfg=231    ctermbg=243    guifg=#FFFFFF    guibg=#767676
-hi SignColumn      ctermfg=231    ctermbg=243    guifg=#FFFFFF    guibg=#767676
-hi ColorColumn     ctermfg=16     ctermbg=243    guifg=#000000    guibg=#767676
+hi FoldColumn      ctermfg=79     ctermbg=236    guifg=#5FD7AF    guibg=#303030
+hi SignColumn      ctermfg=79     ctermbg=236    guifg=#5FD7AF    guibg=#303030
+hi ColorColumn     ctermfg=79     ctermbg=236    guifg=#5FD7AF    guibg=#303030
 
 hi CursorColumn    ctermbg=236    cterm=none    guibg=#303030    gui=none
 hi CursorLine      ctermbg=236    cterm=none    guibg=#303030    gui=none
@@ -121,8 +121,8 @@ hi diffChanged     ctermfg=179    guifg=#D7AF5F
 
 hi diffAdd         ctermfg=16     ctermbg=149    guifg=#000000    guibg=#AFD75F
 hi diffDelete      ctermfg=231    ctermbg=fg    guifg=#FFFFFF    guibg=fg
-hi diffText        ctermfg=16     ctermbg=216    guifg=#000000    guibg=#FFAF87
-hi diffChange      ctermfg=16     ctermbg=210    guifg=#000000    guibg=#FF8787
+hi diffText        ctermfg=16     ctermbg=211    guifg=#000000    guibg=#FF87AF
+hi diffChange      ctermfg=16     ctermbg=217    guifg=#000000    guibg=#FFAFAF
 hi diffOldLine     ctermfg=104    guifg=#8787D7
 
 hi SpellBad        ctermfg=210    ctermbg=bg      cterm=underline    guifg=#FF8787    guibg=bg    gui=underline
