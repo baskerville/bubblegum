@@ -1,7 +1,7 @@
 " Vim Color File
 " Name:       bubblegum.vim
 " Version:    0.1
-" Maintainer: baskerville <nihilhill@gmail.com>
+" Maintainer: baskerville <nihilhill *at* gmail *dot* com>
 "
 " Based on xoria256.
 
