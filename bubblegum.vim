@@ -30,8 +30,8 @@ hi Boolean         ctermfg=144
 hi Float           ctermfg=179
 
 " pink
-hi Identifier      ctermfg=139
-hi Function        ctermfg=139
+hi Identifier      ctermfg=181
+hi Function        ctermfg=182
 
 " blue
 hi Statement       ctermfg=110
