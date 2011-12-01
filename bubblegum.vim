@@ -101,7 +101,7 @@ hi Search          ctermfg=16     ctermbg=179     cterm=none
 hi IncSearch       ctermfg=231    ctermbg=168     cterm=none
 hi Question        ctermfg=38
 
-hi Folded          ctermfg=231    ctermbg=243
+hi Folded          ctermfg=243    ctermbg=bg
 hi FoldColumn      ctermfg=79     ctermbg=236
 hi SignColumn      ctermfg=79     ctermbg=236
 hi ColorColumn     ctermfg=79     ctermbg=236

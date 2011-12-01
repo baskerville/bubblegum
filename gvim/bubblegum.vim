@@ -101,7 +101,7 @@ hi Search          ctermfg=16     ctermbg=179     cterm=none    guifg=#000000   
 hi IncSearch       ctermfg=231    ctermbg=168     cterm=none    guifg=#FFFFFF    guibg=#D75F87    gui=none
 hi Question        ctermfg=38    guifg=#00AFD7
 
-hi Folded          ctermfg=231    ctermbg=243    guifg=#FFFFFF    guibg=#767676
+hi Folded          ctermfg=243    ctermbg=bg    guifg=#767676    guibg=bg
 hi FoldColumn      ctermfg=79     ctermbg=236    guifg=#5FD7AF    guibg=#303030
 hi SignColumn      ctermfg=79     ctermbg=236    guifg=#5FD7AF    guibg=#303030
 hi ColorColumn     ctermfg=79     ctermbg=236    guifg=#5FD7AF    guibg=#303030
