@@ -73,10 +73,15 @@ hi Todo            ctermfg=139    ctermbg=bg     cterm=none    guifg=#AF87AF    
 "
 hi StatusLine      ctermfg=fg     ctermbg=236    cterm=none    guifg=fg    guibg=#303030    gui=none
 hi StatusLineNC    ctermfg=243    ctermbg=236    cterm=none    guifg=#767676    guibg=#303030    gui=none
+hi TabLine         ctermfg=fg     ctermbg=236    cterm=none    guifg=fg    guibg=#303030    gui=none
+hi TabLineSel      ctermfg=fg     ctermbg=bg     cterm=none    guifg=fg    guibg=bg    gui=none
+hi TabLineFill     ctermfg=fg     ctermbg=236    cterm=none    guifg=fg    guibg=#303030    gui=none
+
 hi Pmenu           ctermfg=fg     ctermbg=236    guifg=fg    guibg=#303030
 hi PmenuSel        ctermfg=231    ctermbg=243    guifg=#FFFFFF    guibg=#767676
 hi PmenuSbar       ctermfg=231    ctermbg=243    guifg=#FFFFFF    guibg=#767676
 hi WildMenu        ctermfg=71     ctermbg=236    cterm=none    guifg=#5FAF5F    guibg=#303030    gui=none
+
 hi Visual          ctermfg=fg     ctermbg=bg     cterm=reverse    guifg=fg    guibg=bg    gui=reverse
 hi VertSplit       ctermfg=243    ctermbg=236    cterm=none    guifg=#767676    guibg=#303030    gui=none
 hi LineNr          ctermfg=243    ctermbg=236    guifg=#767676    guibg=#303030
@@ -133,3 +138,5 @@ hi SpellLocal      ctermfg=180    ctermbg=bg      cterm=underline    guifg=#D7AF
 hi mkdCode         ctermfg=243    guifg=#767676
 hi mkdURL          ctermfg=111    guifg=#87AFFF
 hi mkdLink         ctermfg=181    guifg=#D7AFAF
+
+hi mailSubject     ctermfg=216    guifg=#FFAF87

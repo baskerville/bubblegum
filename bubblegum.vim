@@ -73,10 +73,15 @@ hi Todo            ctermfg=139    ctermbg=bg     cterm=none
 "
 hi StatusLine      ctermfg=fg     ctermbg=236    cterm=none
 hi StatusLineNC    ctermfg=243    ctermbg=236    cterm=none
+hi TabLine         ctermfg=fg     ctermbg=236    cterm=none
+hi TabLineSel      ctermfg=fg     ctermbg=bg     cterm=none
+hi TabLineFill     ctermfg=fg     ctermbg=236    cterm=none
+
 hi Pmenu           ctermfg=fg     ctermbg=236
 hi PmenuSel        ctermfg=231    ctermbg=243
 hi PmenuSbar       ctermfg=231    ctermbg=243
 hi WildMenu        ctermfg=71     ctermbg=236    cterm=none
+
 hi Visual          ctermfg=fg     ctermbg=bg     cterm=reverse
 hi VertSplit       ctermfg=243    ctermbg=236    cterm=none
 hi LineNr          ctermfg=243    ctermbg=236
@@ -133,3 +138,5 @@ hi SpellLocal      ctermfg=180    ctermbg=bg      cterm=underline
 hi mkdCode         ctermfg=243
 hi mkdURL          ctermfg=111
 hi mkdLink         ctermfg=181
+
+hi mailSubject     ctermfg=216
