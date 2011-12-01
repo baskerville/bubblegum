@@ -82,7 +82,7 @@ hi VertSplit       ctermfg=243    ctermbg=236    cterm=none
 hi LineNr          ctermfg=243    ctermbg=236
 
 hi Title           ctermfg=109
-hi SpecialKey      ctermfg=136
+hi SpecialKey      ctermfg=114
 hi NonText         ctermfg=243
 hi MatchParen      ctermfg=16     ctermbg=72
 hi Directory       ctermfg=103

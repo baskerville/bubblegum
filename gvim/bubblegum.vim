@@ -82,7 +82,7 @@ hi VertSplit       ctermfg=243    ctermbg=236    cterm=none    guifg=#767676    
 hi LineNr          ctermfg=243    ctermbg=236    guifg=#767676    guibg=#303030
 
 hi Title           ctermfg=109    guifg=#87AFAF
-hi SpecialKey      ctermfg=136    guifg=#AF8700
+hi SpecialKey      ctermfg=114    guifg=#87D787
 hi NonText         ctermfg=243    guifg=#767676
 hi MatchParen      ctermfg=16     ctermbg=72    guifg=#000000    guibg=#5FAF87
 hi Directory       ctermfg=103    guifg=#8787AF
