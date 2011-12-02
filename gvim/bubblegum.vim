@@ -66,7 +66,7 @@ hi Debug           ctermfg=174    guifg=#D78787
 hi Underlined      ctermfg=fg    guifg=fg
 hi Ignore          ctermfg=236    guifg=#303030
 hi Error           ctermfg=231    ctermbg=167    guifg=#FFFFFF    guibg=#D75F5F
-hi Todo            ctermfg=139    ctermbg=bg     cterm=none    guifg=#AF87AF    guibg=bg    gui=none
+hi Todo            ctermfg=187    ctermbg=bg     cterm=none    guifg=#D7D7AF    guibg=bg    gui=none
 
 "
 " minor groups

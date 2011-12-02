@@ -66,7 +66,7 @@ hi Debug           ctermfg=174
 hi Underlined      ctermfg=fg
 hi Ignore          ctermfg=236
 hi Error           ctermfg=231    ctermbg=167
-hi Todo            ctermfg=139    ctermbg=bg     cterm=none
+hi Todo            ctermfg=187    ctermbg=bg     cterm=none
 
 "
 " minor groups
