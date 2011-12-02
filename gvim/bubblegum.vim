@@ -30,7 +30,7 @@ hi Boolean         ctermfg=144    guifg=#AFAF87
 hi Float           ctermfg=179    guifg=#D7AF5F
 
 " pink
-hi Identifier      ctermfg=181    guifg=#D7AFAF
+hi Identifier      ctermfg=182    guifg=#D7AFD7
 hi Function        ctermfg=182    guifg=#D7AFD7
 
 " blue
