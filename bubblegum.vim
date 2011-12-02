@@ -43,11 +43,11 @@ hi Keyword         ctermfg=110
 hi Exception       ctermfg=110
 
 " green
-hi PreProc         ctermfg=108
-hi Include         ctermfg=108
-hi Define          ctermfg=108
-hi Macro           ctermfg=108
-hi PreCondit       ctermfg=108
+hi PreProc         ctermfg=114
+hi Include         ctermfg=114
+hi Define          ctermfg=114
+hi Macro           ctermfg=114
+hi PreCondit       ctermfg=114
 
 " purple
 hi Type            ctermfg=146
