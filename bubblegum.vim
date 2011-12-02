@@ -139,4 +139,5 @@ hi mkdCode         ctermfg=243
 hi mkdURL          ctermfg=111
 hi mkdLink         ctermfg=181
 
-hi mailSubject     ctermfg=216
+hi def link mailSubject Title
+hi def link mailQuoted2 mailQuoted1

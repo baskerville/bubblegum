@@ -139,4 +139,5 @@ hi mkdCode         ctermfg=243    guifg=#767676
 hi mkdURL          ctermfg=111    guifg=#87AFFF
 hi mkdLink         ctermfg=181    guifg=#D7AFAF
 
-hi mailSubject     ctermfg=216    guifg=#FFAF87
+hi def link mailSubject Title
+hi def link mailQuoted2 mailQuoted1
