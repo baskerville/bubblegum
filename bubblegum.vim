@@ -64,7 +64,7 @@ hi SpecialComment  ctermfg=174
 hi Debug           ctermfg=174
 
 hi Underlined      ctermfg=fg
-hi Ignore          ctermfg=236
+hi Ignore          ctermfg=bg
 hi Error           ctermfg=231    ctermbg=167
 hi Todo            ctermfg=187    ctermbg=bg     cterm=none
 
@@ -95,7 +95,7 @@ hi Directory       ctermfg=103
 hi ErrorMsg        ctermfg=210    ctermbg=bg
 hi WarningMsg      ctermfg=140
 hi MoreMsg         ctermfg=72
-hi ModeMsg         ctermfg=210
+hi ModeMsg         ctermfg=222
 
 hi Search          ctermfg=16     ctermbg=179     cterm=none
 hi IncSearch       ctermfg=231    ctermbg=168     cterm=none

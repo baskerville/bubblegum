@@ -64,7 +64,7 @@ hi SpecialComment  ctermfg=174    guifg=#D78787
 hi Debug           ctermfg=174    guifg=#D78787
 
 hi Underlined      ctermfg=fg    guifg=fg
-hi Ignore          ctermfg=236    guifg=#303030
+hi Ignore          ctermfg=bg    guifg=bg
 hi Error           ctermfg=231    ctermbg=167    guifg=#FFFFFF    guibg=#D75F5F
 hi Todo            ctermfg=187    ctermbg=bg     cterm=none    guifg=#D7D7AF    guibg=bg    gui=none
 
@@ -95,7 +95,7 @@ hi Directory       ctermfg=103    guifg=#8787AF
 hi ErrorMsg        ctermfg=210    ctermbg=bg    guifg=#FF8787    guibg=bg
 hi WarningMsg      ctermfg=140    guifg=#AF87D7
 hi MoreMsg         ctermfg=72    guifg=#5FAF87
-hi ModeMsg         ctermfg=210    guifg=#FF8787
+hi ModeMsg         ctermfg=222    guifg=#FFD787
 
 hi Search          ctermfg=16     ctermbg=179     cterm=none    guifg=#000000    guibg=#D7AF5F    gui=none
 hi IncSearch       ctermfg=231    ctermbg=168     cterm=none    guifg=#FFFFFF    guibg=#D75F87    gui=none
