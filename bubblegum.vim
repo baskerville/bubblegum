@@ -22,8 +22,8 @@ hi Normal          ctermfg=248    ctermbg=235    cterm=none
 hi Comment         ctermfg=243
 
 " yellow
-hi Constant        ctermfg=180
-hi String          ctermfg=180
+hi Constant        ctermfg=187
+hi String          ctermfg=187
 hi Character       ctermfg=142
 hi Number          ctermfg=179
 hi Boolean         ctermfg=144
@@ -66,7 +66,7 @@ hi Debug           ctermfg=174
 hi Underlined      ctermfg=fg
 hi Ignore          ctermfg=bg
 hi Error           ctermfg=231    ctermbg=167
-hi Todo            ctermfg=187    ctermbg=bg     cterm=none
+hi Todo            ctermfg=189    ctermbg=bg     cterm=none
 
 "
 " minor groups
