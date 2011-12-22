@@ -22,7 +22,7 @@ hi Normal          ctermfg=248    ctermbg=235    cterm=none
 hi Comment         ctermfg=243
 
 " yellow
-hi Constant        ctermfg=187
+hi Constant        ctermfg=186
 hi String          ctermfg=187
 hi Character       ctermfg=142
 hi Number          ctermfg=179
