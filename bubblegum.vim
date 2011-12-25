@@ -82,7 +82,8 @@ hi PmenuSel        ctermfg=231    ctermbg=243
 hi PmenuSbar       ctermfg=231    ctermbg=243
 hi WildMenu        ctermfg=71     ctermbg=236    cterm=none
 
-hi Visual          ctermfg=fg     ctermbg=bg     cterm=reverse
+hi Visual          ctermfg=bg     ctermbg=117
+hi VisualNOS       ctermfg=bg     ctermbg=116
 hi VertSplit       ctermfg=243    ctermbg=236    cterm=none
 hi LineNr          ctermfg=243    ctermbg=236
 

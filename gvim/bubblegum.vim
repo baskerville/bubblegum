@@ -82,7 +82,8 @@ hi PmenuSel        ctermfg=231    ctermbg=243    guifg=#FFFFFF    guibg=#767676
 hi PmenuSbar       ctermfg=231    ctermbg=243    guifg=#FFFFFF    guibg=#767676
 hi WildMenu        ctermfg=71     ctermbg=236    cterm=none    guifg=#5FAF5F    guibg=#303030    gui=none
 
-hi Visual          ctermfg=fg     ctermbg=bg     cterm=reverse    guifg=fg    guibg=bg    gui=reverse
+hi Visual          ctermfg=bg     ctermbg=117    guifg=bg    guibg=#87D7FF
+hi VisualNOS       ctermfg=bg     ctermbg=116    guifg=bg    guibg=#87D7D7
 hi VertSplit       ctermfg=243    ctermbg=236    cterm=none    guifg=#767676    guibg=#303030    gui=none
 hi LineNr          ctermfg=243    ctermbg=236    guifg=#767676    guibg=#303030
 
