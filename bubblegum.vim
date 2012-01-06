@@ -24,7 +24,7 @@ hi Comment         ctermfg=243
 " yellow
 hi Constant        ctermfg=186
 hi String          ctermfg=187
-hi Character       ctermfg=142
+hi Character       ctermfg=143
 hi Number          ctermfg=179
 hi Boolean         ctermfg=144
 hi Float           ctermfg=179
@@ -141,4 +141,6 @@ hi mkdURL          ctermfg=111
 hi mkdLink         ctermfg=181
 
 hi def link mailSubject Title
+hi def link mailSignature Comment
 hi def link mailQuoted2 mailQuoted1
+hi def link perlSharpBang Comment
