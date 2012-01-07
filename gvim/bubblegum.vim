@@ -24,7 +24,7 @@ hi Comment         ctermfg=243    guifg=#767676
 " yellow
 hi Constant        ctermfg=186    guifg=#D7D787
 hi String          ctermfg=187    guifg=#D7D7AF
-hi Character       ctermfg=143    guifg=#AFAF5F
+hi Character       ctermfg=187    guifg=#D7D7AF
 hi Number          ctermfg=179    guifg=#D7AF5F
 hi Boolean         ctermfg=144    guifg=#AFAF87
 hi Float           ctermfg=179    guifg=#D7AF5F
@@ -74,7 +74,7 @@ hi Todo            ctermfg=189    ctermbg=bg     cterm=none    guifg=#D7D7FF    
 hi StatusLine      ctermfg=fg     ctermbg=236    cterm=none    guifg=fg    guibg=#303030    gui=none
 hi StatusLineNC    ctermfg=243    ctermbg=236    cterm=none    guifg=#767676    guibg=#303030    gui=none
 hi TabLine         ctermfg=fg     ctermbg=236    cterm=none    guifg=fg    guibg=#303030    gui=none
-hi TabLineSel      ctermfg=fg     ctermbg=bg     cterm=none    guifg=fg    guibg=bg    gui=none
+hi TabLineSel      ctermfg=252    ctermbg=237    cterm=none    guifg=#D0D0D0    guibg=#3A3A3A    gui=none
 hi TabLineFill     ctermfg=fg     ctermbg=236    cterm=none    guifg=fg    guibg=#303030    gui=none
 
 hi Pmenu           ctermfg=fg     ctermbg=236    guifg=fg    guibg=#303030
