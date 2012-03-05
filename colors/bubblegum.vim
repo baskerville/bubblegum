@@ -18,15 +18,15 @@ let g:colors_name="bubblegum"
 " preferred groups
 " (see `:h w18`)
 "
-hi Normal          ctermfg=248    ctermbg=235    cterm=none    guifg=#A8A8A8    guibg=#262626    gui=none
-hi Comment         ctermfg=243    guifg=#767676
+hi Normal          ctermfg=249    ctermbg=236    cterm=none    guifg=#B2B2B2    guibg=#303030    gui=none
+hi Comment         ctermfg=244    guifg=#808080
 
 " yellow
 hi Constant        ctermfg=186    guifg=#D7D787
 hi String          ctermfg=187    guifg=#D7D7AF
 hi Character       ctermfg=187    guifg=#D7D7AF
 hi Number          ctermfg=179    guifg=#D7AF5F
-hi Boolean         ctermfg=144    guifg=#AFAF87
+hi Boolean         ctermfg=187    guifg=#D7D7AF
 hi Float           ctermfg=179    guifg=#D7AF5F
 
 " pink
@@ -71,25 +71,25 @@ hi Todo            ctermfg=189    ctermbg=bg     cterm=none    guifg=#D7D7FF    
 "
 " minor groups
 "
-hi StatusLine      ctermfg=fg     ctermbg=236    cterm=none    guifg=fg    guibg=#303030    gui=none
-hi StatusLineNC    ctermfg=243    ctermbg=236    cterm=none    guifg=#767676    guibg=#303030    gui=none
-hi TabLine         ctermfg=fg     ctermbg=236    cterm=none    guifg=fg    guibg=#303030    gui=none
-hi TabLineSel      ctermfg=252    ctermbg=237    cterm=none    guifg=#D0D0D0    guibg=#3A3A3A    gui=none
-hi TabLineFill     ctermfg=fg     ctermbg=236    cterm=none    guifg=fg    guibg=#303030    gui=none
+hi StatusLine      ctermfg=fg     ctermbg=237    cterm=none    guifg=fg    guibg=#3A3A3A    gui=none
+hi StatusLineNC    ctermfg=244    ctermbg=237    cterm=none    guifg=#808080    guibg=#3A3A3A    gui=none
+hi TabLine         ctermfg=fg     ctermbg=237    cterm=none    guifg=fg    guibg=#3A3A3A    gui=none
+hi TabLineSel      ctermfg=253    ctermbg=238    cterm=none    guifg=#DADADA    guibg=#444444    gui=none
+hi TabLineFill     ctermfg=fg     ctermbg=237    cterm=none    guifg=fg    guibg=#3A3A3A    gui=none
 
-hi Pmenu           ctermfg=fg     ctermbg=236    guifg=fg    guibg=#303030
-hi PmenuSel        ctermfg=231    ctermbg=243    guifg=#FFFFFF    guibg=#767676
-hi PmenuSbar       ctermfg=231    ctermbg=243    guifg=#FFFFFF    guibg=#767676
-hi WildMenu        ctermfg=71     ctermbg=236    cterm=none    guifg=#5FAF5F    guibg=#303030    gui=none
+hi Pmenu           ctermfg=fg     ctermbg=237    guifg=fg    guibg=#3A3A3A
+hi PmenuSel        ctermfg=231    ctermbg=244    guifg=#FFFFFF    guibg=#808080
+hi PmenuSbar       ctermfg=231    ctermbg=244    guifg=#FFFFFF    guibg=#808080
+hi WildMenu        ctermfg=71     ctermbg=237    cterm=none    guifg=#5FAF5F    guibg=#3A3A3A    gui=none
 
 hi Visual          ctermfg=bg     ctermbg=117    guifg=bg    guibg=#87D7FF
 hi VisualNOS       ctermfg=bg     ctermbg=116    guifg=bg    guibg=#87D7D7
-hi VertSplit       ctermfg=243    ctermbg=236    cterm=none    guifg=#767676    guibg=#303030    gui=none
-hi LineNr          ctermfg=243    ctermbg=236    guifg=#767676    guibg=#303030
+hi VertSplit       ctermfg=244    ctermbg=237    cterm=none    guifg=#808080    guibg=#3A3A3A    gui=none
+hi LineNr          ctermfg=244    ctermbg=237    guifg=#808080    guibg=#3A3A3A
 
 hi Title           ctermfg=109    guifg=#87AFAF
 hi SpecialKey      ctermfg=114    guifg=#87D787
-hi NonText         ctermfg=243    guifg=#767676
+hi NonText         ctermfg=244    guifg=#808080
 hi MatchParen      ctermfg=16     ctermbg=72    guifg=#000000    guibg=#5FAF87
 hi Directory       ctermfg=103    guifg=#8787AF
 
@@ -102,15 +102,15 @@ hi Search          ctermfg=16     ctermbg=179     cterm=none    guifg=#000000   
 hi IncSearch       ctermfg=231    ctermbg=168     cterm=none    guifg=#FFFFFF    guibg=#D75F87    gui=none
 hi Question        ctermfg=38    guifg=#00AFD7
 
-hi Folded          ctermfg=243    ctermbg=bg    guifg=#767676    guibg=bg
-hi FoldColumn      ctermfg=79     ctermbg=236    guifg=#5FD7AF    guibg=#303030
-hi SignColumn      ctermfg=79     ctermbg=236    guifg=#5FD7AF    guibg=#303030
-hi ColorColumn     ctermfg=79     ctermbg=236    guifg=#5FD7AF    guibg=#303030
+hi Folded          ctermfg=244    ctermbg=bg    guifg=#808080    guibg=bg
+hi FoldColumn      ctermfg=79     ctermbg=237    guifg=#5FD7AF    guibg=#3A3A3A
+hi SignColumn      ctermfg=79     ctermbg=237    guifg=#5FD7AF    guibg=#3A3A3A
+hi ColorColumn     ctermfg=79     ctermbg=237    guifg=#5FD7AF    guibg=#3A3A3A
 
-hi CursorColumn    ctermbg=236    cterm=none    guibg=#303030    gui=none
-hi CursorLine      ctermbg=236    cterm=none    guibg=#303030    gui=none
+hi CursorColumn    ctermbg=237    cterm=none    guibg=#3A3A3A    gui=none
+hi CursorLine      ctermbg=237    cterm=none    guibg=#3A3A3A    gui=none
 
-hi vimFold         ctermfg=243    guifg=#767676
+hi vimFold         ctermfg=244    guifg=#808080
 hi vimCommentTitle ctermfg=fg    guifg=fg
 hi helpHyperTextJump ctermfg=74    guifg=#5FAFD7
 
@@ -119,8 +119,8 @@ hi htmlEndTag      ctermfg=147    guifg=#AFAFFF
 hi htmlTagName     ctermfg=175    guifg=#D787AF
 hi htmlString      ctermfg=144    guifg=#AFAF87
 
-hi diffFile        ctermfg=243    guifg=#767676
-hi diffLine        ctermfg=243    guifg=#767676
+hi diffFile        ctermfg=244    guifg=#808080
+hi diffLine        ctermfg=244    guifg=#808080
 hi diffAdded       ctermfg=107    guifg=#87AF5F
 hi diffRemoved     ctermfg=175    guifg=#D787AF
 hi diffChanged     ctermfg=179    guifg=#D7AF5F
@@ -136,7 +136,7 @@ hi SpellCap        ctermfg=174    ctermbg=bg      cterm=underline    guifg=#D787
 hi SpellRare       ctermfg=181    ctermbg=bg      cterm=underline    guifg=#D7AFAF    guibg=bg    gui=underline
 hi SpellLocal      ctermfg=180    ctermbg=bg      cterm=underline    guifg=#D7AF87    guibg=bg    gui=underline
 
-hi mkdCode         ctermfg=243    guifg=#767676
+hi mkdCode         ctermfg=244    guifg=#808080
 hi mkdURL          ctermfg=111    guifg=#87AFFF
 hi mkdLink         ctermfg=181    guifg=#D7AFAF
 
