@@ -62,7 +62,7 @@ if &background == "dark"
 	hi Underlined      ctermfg=fg    guifg=fg
 	hi Ignore          ctermfg=bg    guifg=bg
 	hi Error           ctermfg=231    ctermbg=167    guifg=#FFFFFF    guibg=#D75F5F
-	hi Todo            ctermfg=189    ctermbg=bg     cterm=none    guifg=#D7D7FF    guibg=bg    gui=none
+	hi Todo            ctermfg=244    ctermbg=bg     cterm=none    guifg=#808080    guibg=bg    gui=none
 
 	" Misc
 	hi StatusLine      ctermfg=fg     ctermbg=237    cterm=none    guifg=fg    guibg=#3A3A3A    gui=none
@@ -184,7 +184,7 @@ else
 	hi Underlined      ctermfg=fg    guifg=fg
 	hi Ignore          ctermfg=bg    guifg=bg
 	hi Error           ctermfg=235    ctermbg=160    guifg=#262626    guibg=#D70000
-	hi Todo            ctermfg=60    ctermbg=bg     cterm=none    guifg=#5F5F87    guibg=bg    gui=none
+	hi Todo            ctermfg=246    ctermbg=bg     cterm=none    guifg=#949494    guibg=bg    gui=none
 
 	" Misc
 	hi StatusLine      ctermfg=fg     ctermbg=254    cterm=none    guifg=fg    guibg=#E4E4E4    gui=none
