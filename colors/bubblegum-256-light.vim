@@ -21,9 +21,9 @@ hi Comment ctermfg=246 ctermbg=231 cterm=none guifg=#949494 guibg=#FFFFFF gui=no
 hi Constant ctermfg=130 ctermbg=231 cterm=none guifg=#AF5F00 guibg=#FFFFFF gui=none
 hi String ctermfg=136 ctermbg=231 cterm=none guifg=#AF8700 guibg=#FFFFFF gui=none
 hi Character ctermfg=136 ctermbg=231 cterm=none guifg=#AF8700 guibg=#FFFFFF gui=none
-hi Number ctermfg=172 ctermbg=231 cterm=none guifg=#D78700 guibg=#FFFFFF gui=none
+hi Number ctermfg=131 ctermbg=231 cterm=none guifg=#AF5F5F guibg=#FFFFFF gui=none
 hi Boolean ctermfg=136 ctermbg=231 cterm=none guifg=#AF8700 guibg=#FFFFFF gui=none
-hi Float ctermfg=172 ctermbg=231 cterm=none guifg=#D78700 guibg=#FFFFFF gui=none
+hi Float ctermfg=131 ctermbg=231 cterm=none guifg=#AF5F5F guibg=#FFFFFF gui=none
 
 " Variable Name
 hi Identifier ctermfg=133 ctermbg=231 cterm=none guifg=#AF5FAF guibg=#FFFFFF gui=none
