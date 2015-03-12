@@ -18,12 +18,12 @@ hi Normal ctermfg=241 ctermbg=231 cterm=none guifg=#626262 guibg=#FFFFFF gui=non
 hi Comment ctermfg=246 ctermbg=231 cterm=none guifg=#949494 guibg=#FFFFFF gui=none
 
 " Constant
-hi Constant ctermfg=138 ctermbg=231 cterm=none guifg=#AF8787 guibg=#FFFFFF gui=none
+hi Constant ctermfg=130 ctermbg=231 cterm=none guifg=#AF5F00 guibg=#FFFFFF gui=none
 hi String ctermfg=136 ctermbg=231 cterm=none guifg=#AF8700 guibg=#FFFFFF gui=none
 hi Character ctermfg=136 ctermbg=231 cterm=none guifg=#AF8700 guibg=#FFFFFF gui=none
-hi Number ctermfg=137 ctermbg=231 cterm=none guifg=#AF875F guibg=#FFFFFF gui=none
+hi Number ctermfg=172 ctermbg=231 cterm=none guifg=#D78700 guibg=#FFFFFF gui=none
 hi Boolean ctermfg=136 ctermbg=231 cterm=none guifg=#AF8700 guibg=#FFFFFF gui=none
-hi Float ctermfg=137 ctermbg=231 cterm=none guifg=#AF875F guibg=#FFFFFF gui=none
+hi Float ctermfg=172 ctermbg=231 cterm=none guifg=#D78700 guibg=#FFFFFF gui=none
 
 " Variable Name
 hi Identifier ctermfg=133 ctermbg=231 cterm=none guifg=#AF5FAF guibg=#FFFFFF gui=none
@@ -39,11 +39,11 @@ hi Keyword ctermfg=32 ctermbg=231 cterm=none guifg=#0087D7 guibg=#FFFFFF gui=non
 hi Exception ctermfg=32 ctermbg=231 cterm=none guifg=#0087D7 guibg=#FFFFFF gui=none
 
 " Preprocessor
-hi PreProc ctermfg=22 ctermbg=231 cterm=none guifg=#005F00 guibg=#FFFFFF gui=none
-hi Include ctermfg=22 ctermbg=231 cterm=none guifg=#005F00 guibg=#FFFFFF gui=none
-hi Define ctermfg=22 ctermbg=231 cterm=none guifg=#005F00 guibg=#FFFFFF gui=none
-hi Macro ctermfg=22 ctermbg=231 cterm=none guifg=#005F00 guibg=#FFFFFF gui=none
-hi PreCondit ctermfg=22 ctermbg=231 cterm=none guifg=#005F00 guibg=#FFFFFF gui=none
+hi PreProc ctermfg=28 ctermbg=231 cterm=none guifg=#008700 guibg=#FFFFFF gui=none
+hi Include ctermfg=28 ctermbg=231 cterm=none guifg=#008700 guibg=#FFFFFF gui=none
+hi Define ctermfg=28 ctermbg=231 cterm=none guifg=#008700 guibg=#FFFFFF gui=none
+hi Macro ctermfg=28 ctermbg=231 cterm=none guifg=#008700 guibg=#FFFFFF gui=none
+hi PreCondit ctermfg=28 ctermbg=231 cterm=none guifg=#008700 guibg=#FFFFFF gui=none
 
 " Type
 hi Type ctermfg=61 ctermbg=231 cterm=none guifg=#5F5FAF guibg=#FFFFFF gui=none
