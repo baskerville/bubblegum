@@ -128,7 +128,7 @@ hi Noise ctermfg=247 ctermbg=235 cterm=none guifg=#9E9E9E guibg=#262626 gui=none
 hi helpHyperTextJump ctermfg=74 ctermbg=235 cterm=none guifg=#5FAFD7 guibg=#262626 gui=none
 hi perlSharpBang ctermfg=244 ctermbg=235 cterm=none guifg=#808080 guibg=#262626 gui=none
 hi rubySharpBang ctermfg=244 ctermbg=235 cterm=none guifg=#808080 guibg=#262626 gui=none
-hi jsFuncCall ctermfg=80 ctermbg=235 cterm=none guifg=#5FD7D7 guibg=#262626 gui=none
+hi jsFuncCall ctermfg=116 ctermbg=235 cterm=none guifg=#87D7D7 guibg=#262626 gui=none
 
 " Html
 hi javaScriptNumber ctermfg=179 ctermbg=235 cterm=none guifg=#D7AF5F guibg=#262626 gui=none
