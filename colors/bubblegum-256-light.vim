@@ -100,7 +100,7 @@ hi MatchParen ctermfg=231 ctermbg=166 cterm=none guifg=#FFFFFF guibg=#D75F00 gui
 " Cursor
 hi CursorColumn ctermfg=241 ctermbg=254 cterm=none guifg=#626262 guibg=#E4E4E4 gui=none
 hi CursorLine ctermfg=241 ctermbg=254 cterm=none guifg=#626262 guibg=#E4E4E4 gui=none
-hi CursorLineNr ctermfg=130 ctermbg=231 cterm=none guifg=#AF5F00 guibg=#FFFFFF gui=none
+hi CursorLineNr ctermfg=241 ctermbg=254 cterm=none guifg=#626262 guibg=#E4E4E4 gui=none
 
 " Search
 hi Search ctermfg=231 ctermbg=136 cterm=none guifg=#FFFFFF guibg=#AF8700 gui=none
@@ -156,3 +156,4 @@ hi mailSignature ctermfg=246 ctermbg=231 cterm=none guifg=#949494 guibg=#FFFFFF 
 " Markdown
 hi markdownCode ctermfg=246 ctermbg=231 cterm=none guifg=#949494 guibg=#FFFFFF gui=none
 hi markdownCodeBlock ctermfg=246 ctermbg=231 cterm=none guifg=#949494 guibg=#FFFFFF gui=none
+hi markdownItalic ctermfg=239 ctermbg=231 cterm=none guifg=#4E4E4E guibg=#FFFFFF gui=none
