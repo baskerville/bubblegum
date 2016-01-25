@@ -99,7 +99,7 @@ hi MatchParen ctermfg=231 ctermbg=166 cterm=none guifg=#FFFFFF guibg=#D75F00 gui
 
 " Cursor
 hi CursorColumn ctermfg=241 ctermbg=254 cterm=none guifg=#626262 guibg=#E4E4E4 gui=none
-hi CursorLine ctermfg=241 ctermbg=254 cterm=none guifg=#626262 guibg=#E4E4E4 gui=none
+hi CursorLine ctermbg=254 cterm=none guibg=#E4E4E4 gui=none
 hi CursorLineNr ctermfg=241 ctermbg=254 cterm=none guifg=#626262 guibg=#E4E4E4 gui=none
 
 " Search
