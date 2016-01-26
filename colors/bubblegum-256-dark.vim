@@ -21,9 +21,9 @@ hi Comment ctermfg=244 ctermbg=235 cterm=none guifg=#808080 guibg=#262626 gui=no
 hi Constant ctermfg=186 ctermbg=235 cterm=none guifg=#D7D787 guibg=#262626 gui=none
 hi String ctermfg=187 ctermbg=235 cterm=none guifg=#D7D7AF guibg=#262626 gui=none
 hi Character ctermfg=187 ctermbg=235 cterm=none guifg=#D7D7AF guibg=#262626 gui=none
-hi Number ctermfg=179 ctermbg=235 cterm=none guifg=#D7AF5F guibg=#262626 gui=none
+hi Number ctermfg=180 ctermbg=235 cterm=none guifg=#D7AF87 guibg=#262626 gui=none
 hi Boolean ctermfg=187 ctermbg=235 cterm=none guifg=#D7D7AF guibg=#262626 gui=none
-hi Float ctermfg=179 ctermbg=235 cterm=none guifg=#D7AF5F guibg=#262626 gui=none
+hi Float ctermfg=180 ctermbg=235 cterm=none guifg=#D7AF87 guibg=#262626 gui=none
 
 " Variable Name
 hi Identifier ctermfg=182 ctermbg=235 cterm=none guifg=#D7AFD7 guibg=#262626 gui=none
@@ -135,7 +135,7 @@ hi javaScriptNumber ctermfg=179 ctermbg=235 cterm=none guifg=#D7AF5F guibg=#2626
 hi htmlTag ctermfg=147 ctermbg=235 cterm=none guifg=#AFAFFF guibg=#262626 gui=none
 hi htmlEndTag ctermfg=147 ctermbg=235 cterm=none guifg=#AFAFFF guibg=#262626 gui=none
 hi htmlTagName ctermfg=175 ctermbg=235 cterm=none guifg=#D787AF guibg=#262626 gui=none
-hi htmlString ctermfg=144 ctermbg=235 cterm=none guifg=#AFAF87 guibg=#262626 gui=none
+hi htmlString ctermfg=187 ctermbg=235 cterm=none guifg=#D7D7AF guibg=#262626 gui=none
 
 " Vim
 hi vimFold ctermfg=244 ctermbg=235 cterm=none guifg=#808080 guibg=#262626 gui=none
@@ -143,10 +143,11 @@ hi vimCommentTitle ctermfg=249 ctermbg=235 cterm=none guifg=#B2B2B2 guibg=#26262
 
 " Diff File
 hi diffFile ctermfg=244 ctermbg=235 cterm=none guifg=#808080 guibg=#262626 gui=none
-hi diffLine ctermfg=244 ctermbg=235 cterm=none guifg=#808080 guibg=#262626 gui=none
+hi diffLine ctermfg=186 ctermbg=235 cterm=none guifg=#D7D787 guibg=#262626 gui=none
 hi diffAdded ctermfg=107 ctermbg=235 cterm=none guifg=#87AF5F guibg=#262626 gui=none
 hi diffRemoved ctermfg=175 ctermbg=235 cterm=none guifg=#D787AF guibg=#262626 gui=none
 hi diffChanged ctermfg=179 ctermbg=235 cterm=none guifg=#D7AF5F guibg=#262626 gui=none
+hi diffSubname ctermfg=252 ctermbg=235 cterm=none guifg=#D0D0D0 guibg=#262626 gui=none
 hi diffOldLine ctermfg=104 ctermbg=235 cterm=none guifg=#8787D7 guibg=#262626 gui=none
 
 " Mail
