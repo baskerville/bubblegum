@@ -69,7 +69,7 @@ hi StatusLineNC ctermfg=246 ctermbg=254 cterm=none guifg=#949494 guibg=#E4E4E4 g
 hi TabLine ctermfg=241 ctermbg=254 cterm=none guifg=#626262 guibg=#E4E4E4 gui=none
 hi TabLineSel ctermfg=238 ctermbg=188 cterm=none guifg=#444444 guibg=#D7D7D7 gui=none
 hi TabLineFill ctermbg=254 cterm=none guibg=#E4E4E4 gui=none
-hi VertSplit ctermbg=254 cterm=none guibg=#E4E4E4 gui=none
+hi VertSplit ctermfg=254 ctermbg=254 cterm=none guifg=#E4E4E4 guibg=#E4E4E4 gui=none
 
 " Menu
 hi Pmenu ctermfg=241 ctermbg=254 cterm=none guifg=#626262 guibg=#E4E4E4 gui=none
